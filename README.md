@@ -1,4 +1,4 @@
 reformulation
 =============
 
-first version 
+first 
